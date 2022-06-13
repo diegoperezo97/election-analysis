@@ -1,6 +1,6 @@
 Election Results
 -------------------------
-Total Votes: 369,711
+Total Votes: 0
 -------------------------
 
 County Votes:
