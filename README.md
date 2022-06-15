@@ -1,5 +1,13 @@
 # MODULE 3: PyPoll with Python
 
+One of the most widely used programming languages is Python. It has several practical uses in numerous sectors. Python may be used, for instance, in the financial sector to report market movements and evaluate credit risk. It is employed in medicine to monitor the development and spread of illnesses. Python is widely utilized in social networking, advertising, and weather forecasting.
+
+The numerous libraries that can be quickly loaded into Python are what give it its strength and appeal. which, especially when compared to excel in VBA, may assist in telling a data-driven tale. Python programming is simple to create, rapid at handling big data files, and sophisticated calculations.
+
+You may develop a foundation in programming and improve your comprehension of how to access, analyze, modify, and store data by learning to construct Python scripts that adhere to Python's rules and grammar.
+
+Let's jump into the basics of Python and its use in data analysis.
+
 ## Overview of the Analysis
 In this module, I will be assisting a Colorado Board of Elections employee, Tom, in an election audit of the tabulated results for a U.S. Congressional precinct in Colorado.  I am tasked with reporting the total number of votes casted, the total number of votes for each candidate, and the winner of the election based on the popular vote. 
 
